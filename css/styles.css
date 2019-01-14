@@ -1,0 +1,112 @@
+body{
+  background-color: #40514e12;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+hr{
+  margin-top: 50px;
+  width: 5%;
+  border-style: dotted;
+  border-color: #40514E;
+  border-width: 5px;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  margin-right: 40px;
+}
+h1{
+  color: #009f9d;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  color: #009f9d;
+  font-size: 2.5rem;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  color: #009f9dd9;
+  font-family: 'Montserrat', sans-serif;
+}
+.top-container{
+  background-color: #deecfc;
+  position: relative;
+  padding-top: 100px;
+}
+.bottom-container{
+ background-color: #66BFBF;
+ margin-top: 80px;
+ height: 150px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.round{
+  border-radius: 100%;
+  height: 10%;
+  width: 10%;
+  margin-top: 80px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.image-width-computer{
+  width: 25%;
+  margin-right: 30px;
+  float: left;
+}
+.image-width-chillies{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.btn {
+  background: #bde3e3;
+  background-image: -webkit-linear-gradient(top, #bde3e3, #66BFBF);
+  background-image: -moz-linear-gradient(top, #bde3e3, #66BFBF);
+  background-image: -ms-linear-gradient(top, #bde3e3, #66BFBF);
+  background-image: -o-linear-gradient(top, #bde3e3, #66BFBF);
+  background-image: linear-gradient(to bottom, #bde3e3, #66BFBF);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 10px;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.footer-link{
+  font-weight: bold;
+}
+.con{
+  margin-bottom: 80px;
+}
+.link-margin{
+  padding-top: 50px;
+}
+.footer-des{
+  color: #EAF6F6;
+  padding-right: 37px;
+  font-weight: lighter;
+  padding-top: 10px;
+}
