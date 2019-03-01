@@ -220,3 +220,110 @@ header .nav-list {
     margin: 0 0 0 1em;
     font-size: 120%;
 }
+#title.work-head {
+    padding-bottom: 4em;
+}
+#title {
+    padding: .5em 0 0;
+    position: relative;
+}
+#title .container {
+    position: relative;
+}
+.container {
+    -webkit-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
+}
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#title .left-cloud-notes {
+    left: -6.5em;
+    bottom: 5em;
+}
+#title .cloud {
+    position: absolute;
+    background: url(../images/cloud.svg) top left no-repeat;
+    width: 150px;
+    height: 45px;
+    -webkit-transition: all 1s ease-in-out;
+    transition: all 1s ease-in-out;
+    z-index: 980;
+}
+#title .right-cloud-notes {
+    right: -5em;
+    bottom: 5em;
+}
+#title .flag.flag-left {
+    left: 1.5em;
+    bottom: -8.5em;
+}
+#title .flag {
+    position: absolute;
+    background: url(../images/flag.svg) top left no-repeat;
+    width: 42px;
+    height: 154px;
+}
+.transistion {
+    -webkit-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
+}
+#title .flag.flag-right {
+    right: 2.5em;
+    bottom: -8.5em;
+}
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+#head-slider {
+    padding: 1em 0;
+}
+h2.notes img {
+    display: inline-block;
+}
+img {
+    vertical-align: middle;
+}
+img {
+    border: 0;
+}
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.note {
+    max-width: 730px;
+    margin: 0 auto;
+    padding: 4em 0 2em;
+    overflow: hidden;
+}
+.note h2 {
+    text-align: center;
+    color: #29685a;
+    font-size: 2.5em;
+    font-weight: 400;
+    padding: 0;
+    margin: 0;
+}
+.note h3 {
+    text-align: center;
+    color: #45b29a;
+    font-weight: 400;
+    margin: 0;
+    padding: .5em 0 1.2em;
+}
+.note p {
+    margin: 0 0 1.5em;
+    padding: 0;
+    font-size: 1.4em;
+}
